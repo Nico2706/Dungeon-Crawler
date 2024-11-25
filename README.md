@@ -21,17 +21,17 @@ Este proyecto está desarrollado en **C**. Para compilar y ejecutar el juego, si
 
 2.Entra en el directorio del proyecto:
 
-```bash
-cd dungeon-crawler-rpg
+   ```bash
+   cd dungeon-crawler-rpg
 
 
 3.Compila el código con el siguiente comando (asegúrate de tener un compilador de C instalado):
 
-```bash
-gcc -o dungeon_crawler main.c
+   ```bash
+   gcc -o dungeon_crawler main.c
 
 
 4.Ejecuta el juego:
 
-```bash
-./dungeon_crawler
+   ```bash
+   ./dungeon_crawler
