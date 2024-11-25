@@ -1,0 +1,14 @@
+Nico 20 40
+jack 30 15
+s 40 10
+jj 40 15
+Jhon 40 80
+Roger 0 -5
+jack 50 30
+Nicolas 40 55
+Nicolas 70 85
+Augusto 50 40
+Lautaro 70 70
+Jack 40 35
+Augusto 100 70
+Joel 140 100
